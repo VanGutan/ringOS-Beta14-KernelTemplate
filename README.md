@@ -1,1 +1,1 @@
-ringOS-Beta14-KernelTemplate
+ringOS Beta14 Kernel Template
